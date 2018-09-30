@@ -1,0 +1,1 @@
+I am a second year graduate student in Master's Degree in Operations Research at Columbia University [IEOR](https://ieor.columbia.edu/){:target="_blank"}  department. Passionate about Data Science and Applied Mathematics, I enjoy applying my analytical skills to face real-world problem.  

@@ -1,0 +1,18 @@
+- title: Home
+  href: index.html
+
+- title: About
+  href: about.html
+
+- title: Posts
+  href: list/posts.html
+
+#- title: Projects
+#  href: list/projects.html
+
+- title: Portfolio
+  href: list/portfolio.html
+
+- title: Contact Me
+  href: "mailto:selim.amrouni@columbia.edu"
+
