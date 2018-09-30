@@ -17,11 +17,11 @@ I am part-time <b>Research Engineer</b> at <b>NYU Langone Health</b> where I con
 
 I appreciate transmitting my knowledge to students as <b>Teaching Assistant</b> in [(PhD) Computing for Business Research](https://www8.gsb.columbia.edu/courses/phd/2018/fall/b9122-001){:target="_blank"} and <b>Course Assistant</b> in Deep Learning at <b>Columbia</b>. 
 
-I also recently joined a <b>research project</b> at <b>Columbia University Hospital</b> in Biomedical Informatics in which I hope to apply my data science knowledge to the medical purpose.
+I also recently joined a <b>research project</b> at <b>Columbia University Hospital</b> in Biomedical Informatics at the [Tatonneti Lab](http://tatonettilab.org/){:target="_blank"} in which I hope to apply my data science knowledge to the medical purpose.
 
 Strong advocate of learning by doing, I am also working on several side-projects which strengthen my skills [The full list is here]({{ site.baseurl }}{% link list/projects.md %}). 
 
-I also recently started writting stories on [Medium](https://medium.com/@selimamrouni){:target="_blank"}, you can also find [all posts by year here]({{ site.baseurl }}{% link list/posts.html %}).
+I also started writting stories on [Medium](https://medium.com/@selimamrouni){:target="_blank"}, you can also find [all posts by year here]({{ site.baseurl }}{% link list/posts.html %}).
 
 When I have free time, you can also find me running at Central Park, exploring the city, and probably trying some new cooking recipes.
 
