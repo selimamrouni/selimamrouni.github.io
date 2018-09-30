@@ -1,7 +1,6 @@
 # Friday Theme
 
-Developed based on Friday Theme, thank you! 
-
+Based on Friday Theme, big thanks to Simon from Friday Theme! 
 
 ## A Bootstrap 4 portfolio and blog theme for Jekyll
 
