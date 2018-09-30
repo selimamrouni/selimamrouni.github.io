@@ -1,5 +1,8 @@
 # Friday Theme
 
+Developed based on Friday Theme, thank you! 
+
+
 ## A Bootstrap 4 portfolio and blog theme for Jekyll
 
 * Example 1: This repo builds directly to GitHub pages: https://sfreytag.github.io/friday-theme/
