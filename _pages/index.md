@@ -36,7 +36,7 @@ When I have free time, you can also find me running at Central Park, exploring t
 
     <div class="card">
         <img class="card-img-top" src="./theme/img/home_page/earth.jpg" >
-        <div class="card-text">One of my favorite place</div>
+        <div class="card-text">One of my favorite place on Earth</div>
     </div>
 
     <div class="card">
@@ -56,7 +56,7 @@ When I have free time, you can also find me running at Central Park, exploring t
     </div>
      <div class="card">
         <img class="card-img-top" src="./theme/img/home_page/authors2.jpg" >
-        <div class="card-text">Let's do some NLP</div>
+        <div class="card-text">Spookie NLP</div>
     </div>
 
     <div class="card">
@@ -71,7 +71,7 @@ When I have free time, you can also find me running at Central Park, exploring t
 
      <div class="card">
         <img class="card-img-top" src="./theme/img/home_page/patient_flow.jpg" >
-        <div class="card-text">Hospital Patient Flow </div>
+        <div class="card-text">Hospital Patient Flow</div>
     </div>
 
 
