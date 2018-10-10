@@ -46,7 +46,7 @@ Learning, Stochastic Models, Optimization Models, Data Mining, Data Analytics
 - Pursuing the research to improve the accuracy of the current inpatient discharge prediction model
 - Conducting research to optimize surgery scheduling and operating rooms utilization (Pilot Program)
 
-## NYU LANGONE HEALTH - <i> Research InternÄù</i>
+## NYU LANGONE HEALTH - <i> Research Intern</i>
 <i>New York, NY | Jun 18 ‚Äì Aug 18</i>
 - Conducted research to build a capacity model to predict hospital bed availability for the next 72 hours
 - Gathered the different databases from the hospital services, set-up the intra-day data acquisition process, built visualizations, engineered features and developed Graphic User Interface
