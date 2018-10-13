@@ -13,7 +13,7 @@ narrow: true
 
 This Fall 2018, I am holding four positions at a time. 
 
-I am part-time <b>Research Engineer</b> at <b>NYU Langone Health</b> where I conduct research in order to improve patient-care processes through the use of predictive modeling and optimization methods. 
+I am part-time <b>Data Scientist</b> at <b>NYU Langone Health</b> where I conduct research in order to improve patient-care processes through the use of predictive modeling and optimization methods. 
 
 I appreciate transmitting my knowledge to students as <b>Teaching Assistant</b> in [(PhD) Computing for Business Research](https://www8.gsb.columbia.edu/courses/phd/2018/fall/b9122-001){:target="_blank"} and <b>Course Assistant</b> in Deep Learning at <b>Columbia</b>. 
 
